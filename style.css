@@ -102,7 +102,7 @@ ul li{
     color: #fff;
 
 }
-@media screen and (max-width:600 px){
+@media screen and (max-width: 600px){
     .row{
         flex-direction: column;
     }
